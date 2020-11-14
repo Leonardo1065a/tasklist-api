@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "date.timezone",
+  "type": "java.lang.String",
+  "description": "A description for 'date.timezone'"
+}]}
