@@ -16,7 +16,7 @@ import lombok.Setter;
 import lombok.experimental.Accessors;
 
 @Entity
-@Table(name = "TASK")
+@Table(name = "TASK", schema = "pcel59krmp1ltqgi")
 @Getter @Setter @NoArgsConstructor
 @Accessors(chain = true)
 public class Task {
