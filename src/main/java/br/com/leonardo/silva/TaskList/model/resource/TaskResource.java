@@ -28,6 +28,7 @@ public class TaskResource {
 	@JsonFormat(pattern="yyyy-MM-dd HH:mm:ss")
 	private Date dtEdicao;
 	
+	@JsonFormat(pattern="yyyy-MM-dd HH:mm:ss")
 	private Date dtConclusao;
 	
 	private Long nrPosition;
