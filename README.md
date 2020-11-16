@@ -21,7 +21,7 @@ Para utilizar o projeto virtualmente, você pode acessar o link: https://new-tas
 - O prejeto usa apenas uma entidade, e seus recursos para gerenciar as tasks.
 - Essas são as rotas disponiveis para o gerenciamento:
 - getAll - GET: tasks
-- getById:- GET: tasks/{id}
+- getById - GET: tasks/{id}
 - post = POST: tasks
 - put - PUT: tasks/{id}
 - delete - DELETE: tasks/{id}
